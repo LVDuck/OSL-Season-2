@@ -1,6 +1,6 @@
 {
 	"Name": "OSL S2",
-	"Version": 1737673489,
+	"Version": 1738047970,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1260,9 +1260,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
-				"37",
-				"65",
-				"112"
+				"37"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
