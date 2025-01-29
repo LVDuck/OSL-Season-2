@@ -1,6 +1,6 @@
 {
 	"Name": "OSL S2",
-	"Version": 1738047970,
+	"Version": 1738135542,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -914,7 +914,10 @@
 				233,
 				235,
 				237,
-				238
+				238,
+				228,
+				234,
+				236
 			],
 			"ItemWhitelist": [
 				5
