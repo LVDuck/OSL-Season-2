@@ -1,6 +1,6 @@
 {
 	"Name": "OSL S2",
-	"Version": 1738135542,
+	"Version": 1738928864,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -382,7 +382,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"2"
+				"6"
 			],
 			"BalanceTiers": [
 				0,
@@ -456,7 +456,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"11"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
