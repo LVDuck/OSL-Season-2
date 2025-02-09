@@ -1,6 +1,6 @@
 {
 	"Name": "OSL S2",
-	"Version": 1738928864,
+	"Version": 1739102227,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -85,13 +85,10 @@
 				"171",
 				"172",
 				"173",
-				"174",
 				"175",
 				"179",
 				"180",
 				"183",
-				"184",
-				"264",
 				"186",
 				"265",
 				"188",
@@ -163,7 +160,6 @@
 			"Name": "S",
 			"SurvivorIndvPerkBans": [],
 			"KillerIndvPerkBans": [
-				"132",
 				"178",
 				"191",
 				"220"
@@ -467,7 +463,11 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"132",
+				"174",
+				"184"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1495,6 +1495,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"132",
 				"142",
 				"159"
 			],
