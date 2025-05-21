@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season 3",
-	"Version": 1747556208,
+	"Version": 1747825882,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1572,8 +1572,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"8",
-				"37"
+				"8"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1617,8 +1616,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				4,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
