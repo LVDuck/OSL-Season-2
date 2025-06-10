@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season 3",
-	"Version": 1749450845,
+	"Version": 1749591123,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1058,7 +1058,8 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				217,
-				216
+				216,
+				218
 			],
 			"ItemWhitelist": [
 				0,
