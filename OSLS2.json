@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season 4",
-	"Version": 1756100511,
+	"Version": 1756174302,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2005,7 +2005,7 @@
 		{
 			"Name": "The Cenobite",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"16"
 			],
@@ -2855,7 +2855,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"0"
+				"42"
 			],
 			"BalanceTiers": [
 				0,
@@ -2930,7 +2930,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"9"
+				"6"
 			],
 			"BalanceTiers": [
 				0,
