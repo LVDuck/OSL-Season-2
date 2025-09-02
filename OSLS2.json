@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season 4",
-	"Version": 1756444306,
+	"Version": 1756800255,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1188,7 +1188,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "",
+			"KillerNotes": "The Tomie skin is banned",
 			"IsDisabled": false,
 			"Map": [
 				"8"
@@ -1593,7 +1593,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"8"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2795,6 +2797,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"52",
+				"58",
+				"63",
 				"76"
 			],
 			"SurvivorComboPerkBans": [],
@@ -3013,7 +3017,7 @@
 		},
 		{
 			"Name": "The Animatronic",
-			"KillerNotes": "",
+			"KillerNotes": "The Glitchtrap and Yellow Rabbit skins are banned",
 			"IsDisabled": false,
 			"Map": [
 				"0"
@@ -3029,7 +3033,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"8"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
