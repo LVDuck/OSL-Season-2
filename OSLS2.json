@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season 4",
-	"Version": 1756800255,
+	"Version": 1756887938,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -106,7 +106,9 @@
 				"148",
 				"149",
 				"150",
+				"152",
 				"153",
+				"154",
 				"155",
 				"156",
 				"266",
@@ -2877,7 +2879,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"8"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
